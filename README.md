@@ -1,4 +1,3 @@
-```markdown
 ### Hi there, I'm Ashish Vishwakarma! 👋
 
 🚀 **Full-Stack Developer | Software Developer | MERN Enthusiast | Open-Source Contributor**  
@@ -42,19 +41,19 @@
 ## 📌 Featured Projects
 
 ### 🚀 [Portfolio Website](#)
-**Built With:** `HTML5`, `CSS3`, `JavaScript`, `JSON`, `Responsive Design`
+**Built With:** `HTML5`, `CSS3`, `JavaScript`, `JSON`, `Responsive Design`  
 > A sleek and interactive portfolio website that showcases personal projects, skills, and accomplishments.
 
 ### 🎮 [Flappy Bird Game](#)
-**Built With:** `JavaScript`, `HTML5 Canvas`, `CSS3`
+**Built With:** `JavaScript`, `HTML5 Canvas`, `CSS3`  
 > A browser-based game with smooth animations and dynamic obstacles.
 
 ### 🏅 [Gym Fitness App](#)
-**Built With:** `Android (Java/Kotlin)`, `Mobile Development`, `UI/UX`
+**Built With:** `Android (Java/Kotlin)`, `Mobile Development`, `UI/UX`  
 > A fitness tracking app with workout plans, diet logs, and activity tracking.
 
 ### 🤖 [Panda Virtual Assistant](#)
-**Built With:** `Python`, `AI`, `NLP`
+**Built With:** `Python`, `AI`, `NLP`  
 > An AI-powered personal assistant that helps with reminders, weather updates, and online searches.
 
 🔗 **Explore More:** [GitHub Repositories](#)
@@ -73,11 +72,9 @@
 
 - 📩 **Email:** writetoashishvishwakarma@gmail.com  
 - 📍 **Location:** Mumbai, India - 400068  
-- 🌐 **Portfolio:** https://wwwashishvishwakarma.netlify.app/ 
-- 🌟 **LinkedIn:** https://www.linkedin.com/in/ashishvishwakarma1407/
+- 🌐 **Portfolio:** [https://wwwashishvishwakarma.netlify.app/](https://wwwashishvishwakarma.netlify.app/)  
+- 🌟 **LinkedIn:** [https://www.linkedin.com/in/ashishvishwakarma1407/](https://www.linkedin.com/in/ashishvishwakarma1407/)  
 
 ---
 
 🌟 **Feel free to fork, star, and contribute! Let's build something amazing together!** 🚀
-```
-
