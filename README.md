@@ -1,7 +1,7 @@
-### Hi there, I'm Ashish Vishwakarma! 👋
+# 👋 Hi there, I'm Ashish Vishwakarma!
 
-🚀 **Full-Stack Developer | Software Developer | MERN Enthusiast | Open-Source Contributor**  
-💻 Passionate about coding, building applications, and improving tech skills through hands-on projects.
+🚀 **Full-Stack Developer | Software Developer | MERN Stack Enthusiast | Open-Source Contributor**  
+💻 Passionate about coding, building innovative applications, and continuously improving my skills through hands-on projects.
 
 ---
 
@@ -31,7 +31,7 @@
 - ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
 - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 
-### **Web Designing**  
+### **Web Design**  
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -40,23 +40,8 @@
 
 ## 📌 Featured Projects
 
-### 🚀 [Portfolio Website](#)
-**Built With:** `HTML5`, `CSS3`, `JavaScript`, `JSON`, `Responsive Design`  
-> A sleek and interactive portfolio website that showcases personal projects, skills, and accomplishments.
-
-### 🎮 [Flappy Bird Game](#)
-**Built With:** `JavaScript`, `HTML5 Canvas`, `CSS3`  
-> A browser-based game with smooth animations and dynamic obstacles.
-
-### 🏅 [Gym Fitness App](#)
-**Built With:** `Android (Java/Kotlin)`, `Mobile Development`, `UI/UX`  
-> A fitness tracking app with workout plans, diet logs, and activity tracking.
-
-### 🤖 [Panda Virtual Assistant](#)
-**Built With:** `Python`, `AI`, `NLP`  
-> An AI-powered personal assistant that helps with reminders, weather updates, and online searches.
-
-🔗 **Explore More:** [GitHub Repositories](#)
+Explore my repositories on GitHub for a wide variety of projects and contributions:  
+🔗 **[Explore Repositories](#)**
 
 ---
 
@@ -70,11 +55,11 @@
 
 ## 👯 Get in Touch
 
-- 📩 **Email:** writetoashishvishwakarma@gmail.com  
+- 📩 **Email:** [writetoashishvishwakarma@gmail.com](mailto:writetoashishvishwakarma@gmail.com)  
 - 📍 **Location:** Mumbai, India - 400068  
 - 🌐 **Portfolio:** [https://wwwashishvishwakarma.netlify.app/](https://wwwashishvishwakarma.netlify.app/)  
-- 🌟 **LinkedIn:** [https://www.linkedin.com/in/ashishvishwakarma1407/](https://www.linkedin.com/in/ashishvishwakarma1407/)  
+- 🌟 **LinkedIn:** [https://www.linkedin.com/in/ashishvishwakarma1407/](https://www.linkedin.com/in/ashishvishwakarma1407/)
 
 ---
 
-🌟 **Feel free to fork, star, and contribute! Let's build something amazing together!** 🚀
+🌟 **Feel free to fork, star, and contribute! Let's collaborate and build something amazing!** 🚀
