@@ -34,14 +34,6 @@ Explore my repositories on GitHub for a wide variety of projects and contributio
 
 ---
 
-## 📊 GitHub Stats
-
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwwashishtech&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwashishtech&layout=compact&theme=radical)
-
----
-
 ## 👯 Get in Touch
 
 - 📩 **Email:** [writetoashishvishwakarma@gmail.com](mailto:writetoashishvishwakarma@gmail.com)  
